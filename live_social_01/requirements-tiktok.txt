@@ -1,0 +1,2 @@
+# Optional transport; --source dom never imports it. Lab is independent.
+TikTokLive==7.0.1

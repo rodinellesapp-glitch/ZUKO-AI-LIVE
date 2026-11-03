@@ -1,0 +1,23 @@
+ZUKO - trilhas locais Kaino sob CC0 1.0
+
+Importadas em: 2026-10-29T13:31:10.049336+00:00
+Fonte: https://kaino.dev/library/music
+Licenca: https://creativecommons.org/publicdomain/zero/1.0/legalcode
+A biblioteca declara CC0 1.0 e uso inclusive comercial sem atribuicao.
+
+Heavy Lighthouse | chiptune-05 | musicas\\chiptune_05.mp3 | 2402207 bytes | SHA-256 f23fcd7637ead56b8c9bce14cc47567874ff933e1838c77315b5ac23be226d18
+URL: https://kaino.dev/api/library/music/chiptune-05/download?format=mp3
+
+Turbo Runner | creator-podcast-intro-05 | musicas\\creator_podcast_intro_05.mp3 | 802848 bytes | SHA-256 9c04d7ff50e76a38475acacf20aecf71009af8ccd3cde2f3d52194a0ee5d5dca
+URL: https://kaino.dev/api/library/music/creator-podcast-intro-05/download?format=mp3
+
+Burning Anthem | creator-sports-01 | musicas\\creator_sports_01.mp3 | 2402213 bytes | SHA-256 94b2fc1988debd3e7c1ff21e032378ad0e27fb731ada1b39312a5e28c2e0a384
+URL: https://kaino.dev/api/library/music/creator-sports-01/download?format=mp3
+
+Silver Voltage | cyberpunk-07 | musicas\\cyberpunk_07.mp3 | 6002206 bytes | SHA-256 e8ce8ddd5d2733ad0b953deeac9817eabf7afd52f9d5ac5e8ce039a457c2af37
+URL: https://kaino.dev/api/library/music/cyberpunk-07/download?format=mp3
+
+Coastal Thunder | acoustic-folk-05 | musicas\\acoustic_folk_05.mp3 | 3602211 bytes | SHA-256 6638c020855f3f77f810525be3e528b125a53f9302cda372a96271aae8782b7c
+URL: https://kaino.dev/api/library/music/acoustic-folk-05/download?format=mp3
+
+

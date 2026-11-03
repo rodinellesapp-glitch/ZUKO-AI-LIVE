@@ -1,0 +1,2 @@
+# LiteLLM Python SDK; installed only under vendor/litellm_runtime.
+litellm==1.106.2

@@ -1,0 +1,66 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+secrets.json
+credentials.json
+service-account*.json
+
+# Local state, logs, sessions and temporary files
+*.log
+*.sqlite
+*.sqlite3
+*.db
+*.tmp
+*.bak
+*.bak-*
+*cookie*
+*token-cache*
+**/logs/
+**/runtime/
+**/work/
+**/evidence/
+**/backups/
+**/backup_*/
+**/backup-*/
+**/BACKUPS/
+COPY_SHA256_MANIFEST.json
+WORKSPACE_FINAL_SHA256_MANIFEST.json
+
+# Godot generated/imported cache
+.godot/
+**/.godot/
+**/.import/
+*.stex
+*.md5
+
+# Local editor/system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Runtime-generated provider, voice and soundtrack settings
+live_social_01/gemini_limits.json
+live_social_01/gemini_model_settings.json
+live_social_01/zuko_voice_settings.json
+live_social_01/zuko_soundtrack_settings.json
+live_social_01/live_voice_preferences.json
+# Locally supplied audio is not redistributable by default
+musicas/*.wav

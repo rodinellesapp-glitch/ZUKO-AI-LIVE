@@ -1,0 +1,23 @@
+{
+  "version": 3,
+  "enabled_on_start": false,
+  "default_mode": "NORMAL",
+  "modes": {
+    "CALMO": {"interval": 45, "wait": 12, "challenge_every": 6, "gesture_intensity": 0},
+    "NORMAL": {"interval": 25, "wait": 8, "challenge_every": 4, "gesture_intensity": 1},
+    "ALTA ENERGIA": {"interval": 15, "wait": 5, "challenge_every": 3, "gesture_intensity": 2}
+  },
+  "limits": {
+    "autonomous_gemini_per_session": 20,
+    "autonomous_gemini_per_minute": 2,
+    "audience_reserve_calls": 10,
+    "failure_threshold": 3,
+    "circuit_seconds": 60,
+    "failure_backoff_seconds": 15,
+    "pending_ttl_seconds": 45
+  },
+  "memory": {"turns": 24, "events": 600, "ttl_seconds": 1800, "window_seconds": 60},
+  "learning": {"minimum_sessions": 3, "minimum_samples": 4, "history_sessions": 20, "manual_review": true},
+  "reflection": {"every_completed": 6, "max_per_session": 2, "use_gemini": false},
+  "cost": {"currency": "USD", "input_per_million": null, "output_per_million": null}
+}

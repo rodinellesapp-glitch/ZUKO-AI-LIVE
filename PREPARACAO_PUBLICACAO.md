@@ -1,6 +1,6 @@
 # Preparação para publicação
 
-Estado: repositório privado criado em 2026-11-03; cópia revisada pronta para o primeiro envio.
+Estado: repositório privado criado e publicado em 2026-11-03; primeira versão enviada no commit `4809d1a`.
 
 ## Destino proposto
 
@@ -41,7 +41,8 @@ O painel, TikTok real, Gemini/Puck, áudio e execução visual Godot não foram 
 
 ## Próximos passos condicionados
 
-1. Revisar e concluir o envio privado desta cópia preparada.
-2. Confirmar os direitos das imagens de cenário e do ícone, ou autorizar substitutos originais na cópia preparada.
-3. Revisar a lista acima e então criar e enviar o repositório. Qualquer mudança posterior para público requer aprovação separada.
+1. Confirmar a licença/proveniência das cinco imagens de cenário e do ícone Godot ou autorizar substitutos originais na cópia.
+2. Adicionar capturas demonstrativas somente depois de revisão de privacidade e direitos.
+3. Para tornar o repositório público, escolher uma licença para o código ZUKO, resolver os recursos visuais e obter aprovação explícita separada.
+
 
